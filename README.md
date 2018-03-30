@@ -1,2 +1,2 @@
-# drsundar
+# Beautyspa
 Book appointments
